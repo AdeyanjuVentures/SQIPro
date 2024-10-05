@@ -174,6 +174,7 @@
 .sec5 {
     display: flex;
     justify-content: space-evenly;
+
 }
 
 .sect5 {
@@ -219,4 +220,20 @@
 }
 .sect6>p{
     margin-bottom: 60px;
+}
+.sec7{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ssect7{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+.sect7{
+    width: 300px;
+}
+.sec8{
+    background-color: #090326;
+    margin-top: 30px;
 }
