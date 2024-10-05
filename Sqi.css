@@ -242,3 +242,36 @@
     margin: 10%;
     width: 100%;
 }
+.sect8>a{
+    border-bottom: 2px solid #d0a73f;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #d0a73f;
+    font-size: 18px;
+}
+.sec9{
+    background-color: #000b3f;
+}
+.sect9{
+    padding: 10%;
+    gap: 10px;
+    color: white;
+}
+.sect9>button{
+    border: 1px solid darkblue;
+    border-radius: 45px;
+    padding: 15px;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+
+}
+.sec10{
+    background-color: #f0f1ff;
+
+}
+.sect10{
+
+}
