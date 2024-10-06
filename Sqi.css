@@ -270,8 +270,42 @@
 }
 .sec10{
     background-color: #f0f1ff;
+    height: 150vh;
+    
 
 }
 .sect10{
-
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.sect10a{
+    
+    border: 1px solid white;
+    background-color: white;
+    margin-right: 30px;
+    max-height: 100%;
+    /* padding-right: 10%; */
+}
+.sect10a>img{
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.sect11{
+    margin: 10%;
+}
+.secta{
+    text-decoration: none;
+    /* color: #66667a; */
+}
+.ssect11{
+    width: 350px;
+}
+.ssect11>p, .ssect11a{
+    color: #66667a;
+}
+.ssect11>h5{
+    margin-bottom: 30px;
 }
